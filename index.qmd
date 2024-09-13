@@ -1,0 +1,5 @@
+---
+title: "STA304 Group 21"
+---
+
+This is a Quarto website by Max Li from group 21 :D wish yall have a nice day!
