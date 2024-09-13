@@ -1,1 +1,25 @@
 /* css styles */
+/* Change background color */
+body {
+  background-color: #f0f0f0; /* Light gray background */
+}
+
+/* Customize text appearance */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arial', sans-serif; /* Change font family */
+  color: #333333; /* Dark gray text color */
+}
+
+p {
+  font-family: 'Georgia', serif; /* Change font family for paragraphs */
+  color: #666666; /* Medium gray text color */
+}
+
+a {
+  color: #0066cc; /* Link color */
+  text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
