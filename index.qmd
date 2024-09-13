@@ -3,3 +3,7 @@ title: "STA304 Group 21"
 ---
 
 This is a Quarto website by Max Li from group 21 :D wish yall have a nice day!
+I'm a student from u of t with major in economy and statistics :D
+currently I'm studing STA304 and I'm really into learning quarto
+This is the first website I made!
+I'm looking forward to be good at quarto !
